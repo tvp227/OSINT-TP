@@ -1,10 +1,11 @@
 # OSINT-TP
-GUI to perform quick OSINT on domains and IP's
+<strong>GUI to perform quick OSINT on domains and IP's</strong>
 
-Store directory within /Documents folder within windows.
-Additionally review code and implement API keys were asked. (All API keys used were free and easily accessable online)
+Please review youtube video below for demonstration.
+https://www.youtube.com/watch?v=9ghDwbsYQ5c&t=92s&ab_channel=TomPorter
 
 
-https://www.youtube.com/watch?v=6y-jIvHad5o&ab_channel=TomPorter
+![Screenshot 2023-10-09 215423](https://github.com/tvp227/OSINT-TP/assets/46229276/2c779ed2-816c-4304-a448-39eee4e6b3b6)
 
-![Screenshot 2023-07-13 002326](https://github.com/tvp227/OSINT-TP/assets/46229276/eeba1a34-3dd2-4d0d-aa25-826829d70e69)
+
+![Screenshot 2023-08-18 134015](https://github.com/tvp227/OSINT-TP/assets/46229276/2295012a-2417-40f2-9e2f-6c318637e386)
